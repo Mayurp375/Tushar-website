@@ -1,0 +1,99 @@
+/* Bootstrap CSS */
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+/* Custom CSS */
+<style>
+  /* Navigation bar */
+  .navbar {
+    background-color: #333;
+    color: #fff;
+  }
+
+  .navbar-brand {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+
+  .nav-link {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fff !important;
+  }
+
+  /* Header */
+  header {
+    background-color: #f8f9fa;
+    padding: 3rem 0;
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 4rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+  }
+
+  p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  /* About section */
+  #about {
+    background-color: #fff;
+    padding: 3rem 0;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+  }
+
+  ul {
+    list-style: none;
+    margin-bottom: 2rem;
+  }
+
+  li {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Work section */
+  #work {
+    background-color: #f8f9fa;
+    padding: 3rem 0;
+    text-align: center;
+  }
+
+  h3 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+  }
+
+  /* Contact section */
+  #contact {
+    background-color: #fff;
+    padding: 3rem 0;
+    text-align: center;
+  }
+
+  ul {
+    list-style: none;
+    margin-bottom: 2rem;
+  }
+
+  li {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+</style>
